@@ -10,8 +10,9 @@ int main(){
     cin >> number;
 
     while(true){
+        if(counter % 2 == 1){
         cout << counter << endl;
-
+        }
         if(number == counter){
             break;
         }
