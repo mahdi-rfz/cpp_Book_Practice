@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-    int ascii_start = 90;
-    int ascii_finish = 122;
+    int ascii_start = 65;
+    int ascii_finish = 90;
 
     while(true){
         cout << ascii_start << endl;
